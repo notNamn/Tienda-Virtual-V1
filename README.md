@@ -64,7 +64,18 @@ Este sistema fue desarrollado con el objetivo de modernizar y digitalizar los pr
 - 📱 Accesible desde cualquier dispositivo (diseño responsivo).
 
 ---
+📸 Capturas del Sistema
 
+![image](https://github.com/user-attachments/assets/23383181-c9d0-48f7-bccf-43556db1281b)
+![image](https://github.com/user-attachments/assets/26812eb3-3e2d-48da-b7d7-05995a265057)
+![image](https://github.com/user-attachments/assets/0b207566-d5ce-42e6-bb68-8ab2d82a03d2)
+![image](https://github.com/user-attachments/assets/c69e8619-8051-4f2d-8792-c82bcc070d29)
+![image](https://github.com/user-attachments/assets/c1b17de4-5898-45fa-bc87-336ac8a61522)
+![image](https://github.com/user-attachments/assets/b496927e-ad56-4202-8488-c4ac9179e4fb)
+
+
+
+---
 ## 📌 Notas del Desarrollador
 
 Este proyecto representó un gran reto y una excelente oportunidad para aplicar mis habilidades en el desarrollo web Fullstack. Aprendí a integrar múltiples tecnologías en una solución coherente y eficiente, enfrentando desafíos reales como la sincronización de datos entre frontend y backend, la seguridad de usuarios y la generación de documentos personalizados. La experiencia reforzó mis conocimientos en arquitectura por capas, manejo de estado y el uso de bibliotecas como Chart.js y jsPDF.
