@@ -3,9 +3,6 @@
 
 Aplicación web Fullstack diseñada para optimizar la gestión de ventas y proformas en tiendas de componentes informáticos. Permite administrar productos, registrar transacciones y generar documentos PDF automatizados, todo desde una interfaz moderna con estadísticas visuales y panel de control administrativo.
 
-## 📸 Capturas de Pantalla
-
-
 ## 🧠 Descripción del Proyecto
 
 Este sistema fue desarrollado con el objetivo de modernizar y digitalizar los procesos de una tienda de tecnología. La aplicación permite registrar ventas y proformas, administrar productos e inventario, generar PDFs y visualizar métricas mediante gráficos interactivos. Incluye autenticación por roles y un historial detallado de transacciones por usuario.
@@ -64,7 +61,7 @@ Este sistema fue desarrollado con el objetivo de modernizar y digitalizar los pr
 - 📱 Accesible desde cualquier dispositivo (diseño responsivo).
 
 ---
-📸 Capturas del Sistema
+## 📸 Capturas de Pantalla
 
 ![image](https://github.com/user-attachments/assets/23383181-c9d0-48f7-bccf-43556db1281b)
 ![image](https://github.com/user-attachments/assets/26812eb3-3e2d-48da-b7d7-05995a265057)
